@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603229104 source:e:\0_8.1229\2_year\diplom\projects\matrixreduction\main.cpp
+	<cstdio>
+	<iostream>
+	"main.h"
+	<list>
+
+1602934076 e:\0_8.1229\2_year\diplom\projects\matrixreduction\main.h
+	<cstdio>
+	<fstream>
+	<iostream>
+
+1602928480 source:e:\0_8.1229\2_year\diplom\projects\matrixreduction\matrixextraction.cpp
+	<fstream>
+	<iostream>
+
