@@ -103,7 +103,7 @@ int main()
             }
             for (int row = 0; row < arr[curI]; row++)
             {
-                for (int col = arr[i]; col < nextCol; col++)
+                for (int col = arr[i]+1; col < nextCol; col++)
                 {
                     A[row][col - deleteN] = A[row][col];
                 }
